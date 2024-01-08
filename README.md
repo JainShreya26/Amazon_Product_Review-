@@ -3,6 +3,7 @@
 2. Descriptive Analysis
 3. Diagnostic Analysis
 4. Predictive Analysis
+   
 • Conducted exploratory data analysis to understand the dataset.
 • Analyzed the following problems using various methods and plots:
 1. Do pricing strategies differ for products for different genders?
